@@ -1,2 +1,2 @@
 # Portfolio
-Sample programs in C#/.NET
+Sample programs in various languages.
